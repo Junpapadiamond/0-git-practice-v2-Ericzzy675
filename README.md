@@ -16,4 +16,4 @@ organizations. The ability to run something as sophisticated as DeepSeek R1 loca
 Moreover, lowering the barriers for developers and researchers could open the door to innovations in fields we might not typically associate with AI. It’s a testament to how technology can enable 
 creativity and foster unexpected advancements across diverse disciplines.
 
-YOYO
+
